@@ -1,2 +1,2 @@
 # datasciencecoursera
-The Data Scientist's Toolbox
+registered student of Coursera's "The Data Scientist's Toolbox"
